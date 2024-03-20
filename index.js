@@ -42,3 +42,4 @@ else if (answer.operators === "exponential") {
 else {
     console.log(chalk.bold.red("Enter A Valid Number"));
 }
+console.log("Thank you!!!");
