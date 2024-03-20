@@ -49,7 +49,7 @@ else if (answer.operators==="exponential"){
     console.log(chalk.bold.red("Enter A Valid Number"));
 }
 
-
+console.log("Thank you!!!");
 
 
 
